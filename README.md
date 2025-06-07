@@ -3,13 +3,11 @@
 
 ### Spotify clone with Go backend
 
-
-*h**
 ```markdown
 # Object Detection & TTS App
 
 An accessibility app built with Flutter that detects objects and converts detected text to speech, designed to assist visually impaired users.
-
+---
 ## Features
 
 

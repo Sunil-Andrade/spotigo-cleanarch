@@ -1,7 +1,7 @@
 
 ---
 
-### Example README.md for a Flutter App
+## Example README.md for a Flutter App
 
 **h**
 ```markdown

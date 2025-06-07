@@ -4,7 +4,7 @@
 ### Spotify clone with Go backend
 
 
-**h**
+*h**
 ```markdown
 # Object Detection & TTS App
 
